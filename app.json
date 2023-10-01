@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "gpa-helper-v01",
+    "slug": "gpa-helper-v01",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
